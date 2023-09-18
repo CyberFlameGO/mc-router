@@ -13,9 +13,9 @@ require (
 	github.com/sirupsen/logrus v1.4.1
 	github.com/stretchr/testify v1.4.0
 	golang.org/x/text v0.3.2
-	k8s.io/api v0.18.5
-	k8s.io/apimachinery v0.18.5
-	k8s.io/client-go v0.18.5
+	k8s.io/api v0.18.14
+	k8s.io/apimachinery v0.18.14
+	k8s.io/client-go v0.18.14
 )
 
 require (
